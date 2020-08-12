@@ -1,1 +1,1 @@
-# Closest-Point-Pairs
+# TheClosestPairOfPointsProblem
